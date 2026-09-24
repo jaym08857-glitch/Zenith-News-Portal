@@ -1,0 +1,6 @@
+{
+  "name": "Global Chronicle - Blog & News Platform",
+  "description": "A modern, professional, and SEO-optimized Blog & News website with breaking news, trending posts, interactive comment system, dark mode toggle, and complete Admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
